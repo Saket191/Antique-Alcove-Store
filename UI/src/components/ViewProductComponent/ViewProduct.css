@@ -1,0 +1,17 @@
+#main
+{
+    height: auto;
+    width: 700px;
+   
+
+
+}
+.part
+{
+    height: 150px;
+    width: 200px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 0 10px 20px 10px ;
+    float: left;
+}
